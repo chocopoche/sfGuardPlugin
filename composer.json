@@ -4,11 +4,6 @@
     "require": {
         "composer/installers": "*"
     },
-    "source": {
-        "url": "https://github.com/chocopoche/sfGuardPlugin.git",
-        "type": "git",
-        "reference": "master"
-    },
     "extra": {
         "branch-alias": {
             "4.0.2": "master"
